@@ -1,6 +1,3 @@
-# JobFinder
-Ferramenta em Python para coletar vagas remotas, júnior, internship ou entry-level na área de IT Support / Help Desk / NOC / SOC automaticamente.
-
 ```markdown
 # JobFinder – IT Support Junior & Entry-Level Scraper
 
@@ -144,7 +141,8 @@ Sugestões de novos filtros, sites ou melhorias são apreciadas.
 
 ## ⭐ Créditos
 
-Criado para facilitar a vida de quem está começando em **Infra / Suporte / Segurança** e precisa encontrar vagas **reais**, **filtradas** e **acessíveis**.
+Criado para facilitar a vida de quem está começando em **Infra / Suporte / Segurança**
+e precisa encontrar vagas **reais**, **filtradas** e **acessíveis**.
 
 ```
 ```
